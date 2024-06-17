@@ -8,4 +8,4 @@
 这里发出来给喜欢折腾的人吧
 此控件支持com.lite免注册调用
 
-本文首发:https://www.aardio.com.cn/t/424
+本文首发:https://chengxu.xyz/t/424
